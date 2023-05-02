@@ -1,12 +1,9 @@
-## Hi there 👋
+👋 Paper Reivew group!
 
-<!--
+저희는 컴퓨터 비전 및 딥 러닝 분야 스터디로 모인 그룹입니다.
 
-**Here are some ideas to get you started:**
+🔹 Mono Camera based Depth estimation 
+🔹 3D Reconstruction and Computer Vision
+🔹 Project Experience of Basic Neural Networks 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+질문이 있거나 저희에게 연락하고 싶으시면 언제든지 저희 이메일 주소로 연락해 주세요. 👍
